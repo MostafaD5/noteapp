@@ -1,12 +1,27 @@
-# React + Vite
+# NoteApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NoteApp is a simple note-taking app built with **React** and other modern web technologies.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Persistent Notes**: Notes are saved locally in the browser's `localStorage`, so they persist even after refreshing the page.
+- **Search Functionality**: Users can search for notes by title or content.
+- **Responsive Design**: The app adjusts to various screen sizes, making it mobile-friendly.
+- **React-based**: Built using React for a smooth and efficient user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 Live Demo
 
-## Expanding the ESLint configuration
+You can try out the live demo here:  
+[Live Demo](https://mostafad5.github.io/noteapp/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Technologies Used
+- **React** for building the user interface.
+- **HTML5** and **CSS3** for structuring and styling the app.
+- **JavaScript (ES6+)** for app logic and interaction.
+- **localStorage** for persistent data storage.
+
+## 🛠️ How to Run Locally
+To get the app up and running on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MostafaD5/noteapp.git
